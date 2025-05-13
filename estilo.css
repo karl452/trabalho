@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(240, 223, 192);
+}
+
+.titulo{
+    color: peru;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+.paragrafo{
+    font-size: 40px;
+   text-align: justify;
+   color: rgb(156, 106, 82);
+}
+.topico{
+    font-size: 50px;
+    color: peru;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.capitulo{
+    font-size: 60px;
+    color: peru;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.lista{
+    line-height: 40px;
+    color:rgb(156, 106, 82) ;
+    font-size: 30px;
+}
+.imagem{
+    width: 200px;
+    border-radius: 20px;
+}
+table{
+    width: 50%;
+    color: rgb(156, 106, 82) ;
+    font-size: 30px;
+    
+    
+}
+th{
+    border: 1px;
+    padding: 8px;
+    text-align: left;
+}
+img{
+    width: 200px;
+    height: auto;
+    max-width: 100%;
+}
+a{
+    color: blue;
+    font-size: 20px;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: green;
+}
